@@ -1,2 +1,2 @@
-python train_encoder.py --dataset Sintel --save_file encoder.pth
+python main.py --action Train --dataset Sintel --save_file encoder.pth --mini_batch_size 5
  
